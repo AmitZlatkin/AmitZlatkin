@@ -1,6 +1,6 @@
 Hi, I’m @AmitZlatkin👋
 
-I’m interested in low-level applications and data structures.
+I’m interested in math, physics, low-level applications, and data structures.
 
 I’m proficient in C/C++ and am currently learning to develop Android apps and Rust.
 
