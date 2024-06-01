@@ -2,7 +2,7 @@ Hi, I’m @AmitZlatkin👋
 
 I’m interested in math, physics, low-level applications, and data structures.
 
-I’m proficient in C/C++ and am currently learning to develop Android apps and Rust.
+I’m proficient in C/C++ and am currently learning to develop Android apps and the Rust programming language.
 
 📫 How to reach me: amit.zlatkin@campus.technion.ac.il
 
