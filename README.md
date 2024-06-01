@@ -6,7 +6,7 @@ I’m proficient in C/C++ and am currently learning to develop Android apps and 
 
 ⚡ Fun fact: I’m also a competitive swimmer 🏊‍♂️🏊‍♂️🏊‍♂️
 
-![swimmimg_photo](https://github.com/AmitZlatkin/AmitZlatkin/assets/149369767/732db74d-4897-4ddf-aa9f-f53420e9dc7f "Me swimming!" | width=400)
+![swimmimg_photo](https://github.com/AmitZlatkin/AmitZlatkin/assets/149369767/732db74d-4897-4ddf-aa9f-f53420e9dc7f "Me swimming!")
 
 <!---
 AmitZlatkin/AmitZlatkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
